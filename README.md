@@ -5,7 +5,7 @@ Cristian Mañay
 Stephanie Muñoz
 Luis Ortiz
 
-##Casos de estudio 
+## Casos de estudio
 
 Se plantearon 5 temas que tienen un gran impacto en la actualidad, ejemplos que afectan a la sociedad directamente. 
 
