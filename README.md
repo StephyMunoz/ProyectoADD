@@ -54,3 +54,6 @@ Se obtienen datos de Twitter tanto de los usuarios como DW español Y la BBC, se
 
 ![image](https://user-images.githubusercontent.com/58042439/111577577-8ad96a00-8780-11eb-9b82-c791c7c61e52.png)
 
+## Link a datasets utilizados:
+
+https://epnecuador-my.sharepoint.com/personal/luis_ortiz02_epn_edu_ec/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9lcG5lY3VhZG9yLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2x1aXNfb3J0aXowMl9lcG5fZWR1X2VjL0VpOTM0RE9fN2ZwRXVaYmp0ajY5SzhBQjlScTFMbkVTdjZ4SV9kRm9Xa0tYeFE%5FcnRpbWU9bFZpQ0pvemgyRWc&id=%2Fpersonal%2Fluis%5Fortiz02%5Fepn%5Fedu%5Fec%2FDocuments%2FPTDC%5F%20documentos%20compartidos%2FDataset%5Ftemas%2Erar&parent=%2Fpersonal%2Fluis%5Fortiz02%5Fepn%5Fedu%5Fec%2FDocuments%2FPTDC%5F%20documentos%20compartidos
